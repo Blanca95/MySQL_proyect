@@ -4,24 +4,31 @@ El objetivo de este proyecto es la creación de una base de datos en MySQL. Para
 
 ## 🧛‍♀ Objetivos 🥷
 
+- Estudio de datos 
 - Limpieza de datos
 - ERD - Entity Relationship Diagram (.sql)
 - Creación y carga de base de datos 
 - Bonus: 5-10 querys
 
-#### Proceso de limpieza:
+#### Estudio
 
 1. Importar librerías y descargar el documento csv
 2. Exploración inicial
-3. Limpieza:
-- Cambio de nombres y orden de las columnas
-- Eliminación de los duplicados
-- Corrección de los valores de las columnas a estudiar
-- Eliminación de los valores nulos
 
-#### ERD (.sql)
+#### Limpieza
+
+1. Duplicados
+2. Valores nulos
+3. Valores únicos
+4. Datos innecesarios
+
+#### ERD
+
+1. Diagrama inicial manual
+2. Diagrama en MySQL
 
 #### Creación y carga de base de datos 
+
 
 #### Bonus: 5-10 querys
 
