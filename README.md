@@ -6,7 +6,9 @@ El objetivo de este proyecto es la creación de una base de datos en MySQL. Para
 
 ## 🧝‍♀ Trasfondo 🧙‍♂
 
-Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo boom empresarial va a ser el de alquileres de películas en físico, rollo los 90... Me ha contratado por fiverr para que revise un disco duro que le dejó su padre y le diga si tendría todas las pelíclas disponibles para comenzar a alquilarlas  
+Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo boom empresarial va a ser el de alquileres de películas en físico, rollo los 90... Me ha contratado por fiverr para que revise un disco duro que le dejó su padre y le diga si tendría todas las pelíclas disponibles para comenzar a alquilarlas
+
+![shrek](images\shrek.htm\blob\main)
 
 ## 🧛‍♀ Objetivos 🥷
 
