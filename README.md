@@ -13,7 +13,7 @@ Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo bo
 - Estudio de datos 
 - Limpieza de datos
 - Creación y carga de base de datos 
-- ERD - Entity Relationship Diagram (.sql)
+- ERD - Entity Relationship Diagram (.sql) 
 - Bonus: 5-10 querys
 
 #### 📖 Estudio
@@ -42,6 +42,7 @@ Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo bo
 
 2. Diagrama en MySQL
 
+![Alt text](images/Diagram1.png)
 
 #### ⭐ Bonus: 5-10 querys
 
