@@ -38,7 +38,7 @@ Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo bo
 
 1. Diagrama inicial manual
 
-![Diagrama1](images\diagrama_inicial.jpg)
+![Diagrama1](images/diagrama_inicial.jpg)
 
 2. Diagrama en MySQL
 
