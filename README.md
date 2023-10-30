@@ -44,7 +44,7 @@ Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo bo
 
 2. Diagrama en MySQL
 
-![Alt text](images/Diagram1.png)
+![Alt text](images/diagrama_final2.png)
 
 #### ⭐ Bonus: 5-10 querys
 
