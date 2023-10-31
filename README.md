@@ -1,4 +1,4 @@
-![Videoclub](images\videoclub-espana0.jpg.jpg)
+![Videoclub](images/videoclub-espana0.jpg.jpg)
 
 ## 🧟‍♀ Introducción 🧜‍♀
 
