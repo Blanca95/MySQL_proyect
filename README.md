@@ -51,8 +51,8 @@ Manolo se ha dado un golpe en la cabeza y está convencido de que el próximo bo
 
 ## 🦸 Conclusiones 🦹
 
-- No hacía falta el dataframe de disco_duro_viejo, en cambio lo transforme para que sirviese de anclaje n-n entre actores y peliculas
-- Había columnas innecesarias que se eliminaron 
+- No hacía falta el dataframe de disco_duro_viejo, en cambio lo transforme para que sirviese de anclaje n-n entre actores y peliculas y lo de3nominé reparto
+- Había columnas innecesarias que se eliminaron como: release_year, original_lang_id,last_update, etc
 - El dataframe de categorias no necesitaba estar en disco_duro_viejo sino en peliculas
 - Había columnas de peliculas que tenían más sentido en inventario y alquileres
 
